@@ -8,3 +8,5 @@
 
 # Tools yang digunakan:
 Google Colaboratory
+
+~ Kiky Napitupulu
